@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .bg-btn {
+        background: #6830F3;
+    }
+
+    .bg-main {
+        background: #131313;
+    }
+
+    .rounded-btn {
+        border-radius: 10px;
+    }
+}
